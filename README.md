@@ -6,7 +6,6 @@ wip
 
 <br><br>
 
-<sub>♫ ♪ ♫ ♪ ♫ ♪ ♫</sub>
 
 </div>
 

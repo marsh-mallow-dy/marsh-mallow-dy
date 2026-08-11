@@ -10,3 +10,7 @@ wip
 
 
 ![Static Badge](https://img.shields.io/badge/my-strawpage-green)
+
+<a href="https://https://scrapsscout.straw.page">
+  <img src="./images/IMG_0278.png" width="60">
+</a>

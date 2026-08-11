@@ -3,7 +3,7 @@ wip
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Welcome!+%F0%9F%91%8B;Welcome+to+my+GitHub;I'm+a+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Welcome!;Welcome+to+my+GitHub;I'm+a+developer)](https://git.io/typing-svg)
 
 
 <div align="middle">

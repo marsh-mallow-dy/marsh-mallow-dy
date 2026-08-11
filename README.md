@@ -37,7 +37,7 @@ wip
 
 ![Static Badge](https://img.shields.io/badge/my-pronouns-green)
 
-![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![Static Badge](https://img.shields.io/badge/pronouns%20-green)
 
 ![GitHub followers](https://img.shields.io/github/followers/Sugarcane)
 ![GitHub stars](https://img.shields.io/github/stars/Sugarcane)

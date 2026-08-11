@@ -5,7 +5,7 @@ wip
 ![Description](CFEB9E06-C765-4283-9325-797A69ED9580.gif)
 
 <a href="https://https://scrapsscout.straw.page">
-  <img src="./images/dog.png" width="70">
+  <img src="./images/IMG_0278.png" width="70">
 </a>
 
 

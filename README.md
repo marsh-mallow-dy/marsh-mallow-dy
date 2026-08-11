@@ -47,6 +47,9 @@ wip
 
 ![Static Badge](https://img.shields.io/badge/atabook%20-grey)
 
+<div align="middle">
+  <img src="./Untitled17_20260811112419.png" width="100">
+
 
 ![GitHub followers](https://img.shields.io/github/followers/Sugarcane)
 ![GitHub stars](https://img.shields.io/github/stars/Sugarcane)

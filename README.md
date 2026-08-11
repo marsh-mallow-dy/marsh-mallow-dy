@@ -1,6 +1,6 @@
 wip
 
-buttons don’t work yet!
+
 
 <div align="middle">
   <img src="./IMG_0307.jpeg" width="60">

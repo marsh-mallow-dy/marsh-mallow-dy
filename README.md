@@ -29,6 +29,9 @@ wip
 
 ![Static Badge](https://img.shields.io/badge/my-strawpage-green)
 
+<a href="https://pronouns.cc/@MsLeapfrog">
+  <img src="./IMG_0278.png" width="70">
+</a>
 
 ![GitHub followers](https://img.shields.io/github/followers/Sugarcane)
 ![GitHub stars](https://img.shields.io/github/stars/Sugarcane)

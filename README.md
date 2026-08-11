@@ -1,4 +1,6 @@
 wip
+<p style="color: green;">Note:the buttons don’t work yet!💚</p>
+
 <div align="right">
   <img src="./IMG_0307.jpeg" width="60">
 </div>

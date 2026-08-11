@@ -17,3 +17,6 @@ wip
 
 ![Static Badge](https://img.shields.io/badge/my-strawpage-green)
 
+
+![GitHub followers](https://img.shields.io/github/followers/Sugarcane)
+![GitHub stars](https://img.shields.io/github/stars/Sugarcane)

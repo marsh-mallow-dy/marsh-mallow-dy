@@ -38,5 +38,11 @@ wip
 
 ![Static Badge](https://img.shields.io/badge/pronouns%20-green)
 
+<div align="left">
+
+<a href="https://pronouns.cc/@MsLeapfrog">
+  <img src="./Untitled17_20260811111322.png" width="70">
+</a>
+
 ![GitHub followers](https://img.shields.io/github/followers/Sugarcane)
 ![GitHub stars](https://img.shields.io/github/stars/Sugarcane)

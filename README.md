@@ -35,7 +35,6 @@ wip
   <img src="./Untitled17_20260811015527.png" width="70">
 </a>
 
-![Static Badge](https://img.shields.io/badge/my-pronouns-green)
 
 ![Static Badge](https://img.shields.io/badge/pronouns%20-green)
 

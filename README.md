@@ -2,7 +2,7 @@ wip
 
 buttons don’t work yet!
 
-<div align="right">
+<div align="middle">
   <img src="./IMG_0307.jpeg" width="60">
 
   ![](https://komarev.com/ghpvc/?username=Sugarcane&color=green&label=Newcomers!)

@@ -38,12 +38,14 @@ wip
 </a>
 
 
+
+![Static Badge](https://img.shields.io/badge/my-strawpage-green)
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=40&duration=1&pause=1000&color=9ACD32&center=true&vCenter=true&width=1000&lines=06/04">
 </p>
 
-
-![Static Badge](https://img.shields.io/badge/my-strawpage-green)
 
 <div align="right">
   

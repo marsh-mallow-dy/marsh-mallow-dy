@@ -34,7 +34,7 @@ wip
 
 
 <a href="https://scrapsscout.straw.page/">
-  <img src="./Untitled17_20260811232440.png" width="200">
+  <img src="./Untitled17_20260812104233.png" width="200">
 </a>
 
 

@@ -23,7 +23,7 @@ wip
 ![Description](CFEB9E06-C765-4283-9325-797A69ED9580.gif)
 
 <a href="https://scrapsscout.straw.page/">
-  <img src="./Untitled17_20260811232440.png" width="70">
+  <img src="./Untitled17_20260811232440.png" width="100">
 </a>
 
 
@@ -32,7 +32,7 @@ wip
 <div align="right">
   
 <a href="https://pronouns.cc/@MsLeapfrog">
-  <img src="./Untitled17_20260811015527.png" width="100">
+  <img src="./Untitled17_20260811015527.png" width="70">
 </a>
 
 

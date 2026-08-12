@@ -17,13 +17,17 @@ wip
 <div align="middle">
   <img src="./IMG_0307.jpeg" width="60">
 
+
+<div align="middle">
+  <img src="./IMG_0344.jpeg" width="500">
+
+
   ![](https://komarev.com/ghpvc/?username=Sugarcane&color=green&label=Newcomers!)
 
 
 ![Description](CFEB9E06-C765-4283-9325-797A69ED9580.gif)
 
-<div align="middle">
-  <img src="./IMG_0344.jpeg" width="500">
+
 
 
 

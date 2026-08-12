@@ -57,6 +57,9 @@ wip
 ![Static Badge](https://img.shields.io/badge/pronouns%20-green)
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=100&duration=1&pause=1000&color=9ACD32&center=true&vCenter=true&width=500&height=150&lines=2011">
+</p>
 
 
 

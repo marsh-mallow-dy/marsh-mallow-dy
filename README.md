@@ -19,7 +19,7 @@ wip
 
 
 <div align="middle">
-  <img src="./IMG_0344.jpeg" width="500">
+  <img src="./IMG_0344.jpeg" width="1000">
 
 
   ![](https://komarev.com/ghpvc/?username=Sugarcane&color=green&label=Newcomers!)

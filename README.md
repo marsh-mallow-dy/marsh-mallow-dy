@@ -43,7 +43,7 @@ wip
 <div align="right">
   
 <a href="https://pronouns.cc/@MsLeapfrog">
-  <img src="./Untitled17_20260812003748.png" width="70">
+  <img src="./Untitled17_20260812003748.png" width="100">
 </a>
 
 

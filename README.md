@@ -66,7 +66,7 @@ wip
 <div align="left">
 
 <a href="https://leapfrog.atabook.org">
-  <img src="./Untitled18_20260812031535.png" width="110">
+  <img src="./Untitled18_20260812031535.png" width="200">
 </a>
 
 

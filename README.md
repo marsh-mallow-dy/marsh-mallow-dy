@@ -18,8 +18,6 @@ wip
   <img src="./IMG_0344.jpeg" width="1000">
 
 
-<div align="middle">
-  <img src="./ACC2C299-36C2-45F0-9A25-9385889B6C1D" width="70">
 
 
 

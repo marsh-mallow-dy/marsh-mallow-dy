@@ -14,11 +14,13 @@ wip
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Welcome!;Bark:p;This+user+loves+Leapfrog)](https://git.io/typing-svg)
 
 
-
+<div align="middle">
+  <img src="./IMG_0344.jpeg" width="1000">
 
 
 <div align="middle">
-  <img src="./IMG_0344.jpeg" width="1000">
+  <img src="./ACC2C299-36C2-45F0-9A25-9385889B6C1D" width="70">
+
 
 
   ![](https://komarev.com/ghpvc/?username=Sugarcane&color=green&label=Newcomers!)

@@ -22,6 +22,10 @@ wip
 
 ![Description](CFEB9E06-C765-4283-9325-797A69ED9580.gif)
 
+<div align="middle">
+  <img src="./IMG_0344.jpeg" width="500">
+
+
 <a href="https://scrapsscout.straw.page/">
   <img src="./Untitled17_20260811232440.png" width="100">
 </a>

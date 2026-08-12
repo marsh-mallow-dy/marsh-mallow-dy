@@ -14,8 +14,7 @@ wip
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Welcome!;Bark:p;This+user+loves+Leapfrog)](https://git.io/typing-svg)
 
 
-<div align="middle">
-  <img src="./IMG_0307.jpeg" width="60">
+
 
 
 <div align="middle">

@@ -34,7 +34,7 @@ wip
 
 
 <a href="https://scrapsscout.straw.page/">
-  <img src="./Untitled17_20260811232440.png" width="100">
+  <img src="./Untitled17_20260811232440.png" width="200">
 </a>
 
 
@@ -50,7 +50,7 @@ wip
 <div align="right">
   
 <a href="https://pronouns.cc/@MsLeapfrog">
-  <img src="./Untitled17_20260812003748.png" width="100">
+  <img src="./Untitled17_20260812003748.png" width="200">
 </a>
 
 

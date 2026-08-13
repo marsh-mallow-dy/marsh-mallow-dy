@@ -6,7 +6,7 @@ wip
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1DB954&height=100&text=%20Konsensya-IVOS%20&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1DB954&height=100&text=%20WELCOME^_^%20&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
 
 <br><br>
 

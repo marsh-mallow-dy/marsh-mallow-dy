@@ -35,9 +35,7 @@
 
 
 
-<a href="https://scrapsscout.straw.page/">
-  <img src="./Untitled17_20260812104233.png" width="200">
-</a>
+
 
 
 <div align="center">
@@ -49,7 +47,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/atabook%20-grey">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/my-strawpage-green">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/pronouns%20-green">

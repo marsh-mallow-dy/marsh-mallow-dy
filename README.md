@@ -41,9 +41,9 @@
 
 
 <div align="center">
-  <a href="https://leapfrog.atabook.org"><img src="./Untitled18_20260812031535.png" width="150"></a>
+  <a href="https://leapfrog.atabook.org"><img src="./Untitled18_20260815051028.png" width="200"></a>
   <a href="https://scrapscout.straw.page/"><img src="./Untitled17_20260812104233.png" width="200"></a>
-  <a href="https://pronouns.cc/@MsLeapfrog"><img src="./Untitled17_20260812003748.png" width="150"></a>
+  <a href="https://pronouns.cc/@MsLeapfrog"><img src="./Untitled17_20260812003748.png" width="200"></a>
 </div>
 
 

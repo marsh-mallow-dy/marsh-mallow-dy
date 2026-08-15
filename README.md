@@ -72,14 +72,6 @@
 
 
 
-<div align="left">
-
-<a href="https://leapfrog.atabook.org">
-  <img src="./Untitled18_20260812031535.png" width="200">
-</a>
-
-
-![Static Badge](https://img.shields.io/badge/atabook%20-grey)
 
 <div align="middle">
   <img src="./Untitled17_20260812120036.png" width="500">

@@ -82,7 +82,7 @@
 <div align="center">
   <img src="Untitled26_20260815015956.png" width="200">
   <img src="Untitled26_20260815024245.png" width="200">
-  <img src="Untitled26_20260815033043.png" width="200">
+  <img src="Untitled26_20260815033043.png" width="210">
 </div>
 
 

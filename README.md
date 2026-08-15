@@ -63,14 +63,7 @@
 </p>
 
 
-<div align="right">
-  
-<a href="https://pronouns.cc/@MsLeapfrog">
-  <img src="./Untitled17_20260812003748.png" width="200">
-</a>
 
-
-![Static Badge](https://img.shields.io/badge/pronouns%20-green)
 
 
 <p align="center">

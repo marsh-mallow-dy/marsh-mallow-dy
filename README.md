@@ -84,6 +84,14 @@
   <img src="Untitled26_20260815033043.png" width="210">
 </div>
 
+<p align="center">
+  <img src="Untitled24_20260816050925.png" width="50">
+  &nbsp;
+  <span>my GitHub is genuinely buns bro</span>
+</p>
+
+
+
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Sugarcane)

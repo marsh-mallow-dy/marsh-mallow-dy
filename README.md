@@ -45,19 +45,7 @@
 </div>
 
 
-<p align="center">
-  <a href="https://leapfrog.atabook.org">
-    <img src="./Untitled18_20260815051028.png" width="140">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://scrapscout.straw.page">
-    <img src="./Untitled17_20260812104233.png" width="140">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://pronouns.cc/@MsLeapfrog">
-    <img src="./Untitled17_20260812003748.png" width="140">
-  </a>
-</p>
+
 
 
 <div align="center">

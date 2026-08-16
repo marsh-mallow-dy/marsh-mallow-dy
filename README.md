@@ -17,7 +17,7 @@
 
 
 <div align="middle">
-  <img src="./IMG_0344.jpeg" width="1000">
+  <img src="./Untitled24_20260816041711.png" width="1000">
 
 
 

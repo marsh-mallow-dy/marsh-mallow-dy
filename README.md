@@ -44,27 +44,6 @@
   <a href="https://pronouns.cc/@MsLeapfrog"><img src="./Untitled17_20260812003748.png" width="150"></a>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://leapfrog.atabook.org">
-        <img src="./Untitled18_20260815051028.png" width="150">
-      </a>
-    </td>
-
-    <td align="center">
-      <a href="https://scrapscout.straw.page/">
-        <img src="./Untitled17_20260812104233.png" width="150">
-      </a>
-    </td>
-
-    <td align="center">
-      <a href="https://pronouns.cc/@MsLeapfrog">
-        <img src="./Untitled17_20260812003748.png" width="150">
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 

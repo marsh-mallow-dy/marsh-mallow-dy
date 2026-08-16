@@ -102,6 +102,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="./Untitled26_20260815015956.png" width="180"><img src="./Untitled26_20260815024245.png" width="180"><img src="./Untitled26_20260815033043.png" width="190">
+</div>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/Sugarcane)
 ![GitHub stars](https://img.shields.io/github/stars/Sugarcane)

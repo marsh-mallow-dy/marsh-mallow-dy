@@ -30,7 +30,7 @@
 
 
 <div align="middle">
-  <img src="./IMG_0357.jpeg" width="1000">
+  <img src="./IMG_0357.jpeg" width="1000"&height=“150”>
 
 
 

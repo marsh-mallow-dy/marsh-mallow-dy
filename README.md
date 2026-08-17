@@ -93,7 +93,6 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Sugarcane)
-![GitHub stars](https://img.shields.io/github/stars/Sugarcane)
 
 
 

@@ -44,11 +44,7 @@
   <a href="https://pronouns.cc/@MsLeapfrog"><img src="./Untitled17_20260812003748.png" width="150"></a>
 </div>
 
-<div align="center">
-  <a href="https://leapfrog.atabook.org"><img src="./Untitled18_20260815051028.png" width="150"></a>
-  <a href="https://scrapscout.straw.page/"><img src="./Untitled17_20260812104233.png" width="150"></a>
-  <a href="https://pronouns.cc/@MsLeapfrog"><img src="./Untitled17_20260812003748.png" width="150"></a>
-</div>
+
 
 
 
@@ -93,11 +89,7 @@
 
 
 
-<div align="center">
-  <img src="./Untitled26_20260815015956.png" width="160">
-  <img src="./Untitled26_20260815024245.png" width="160">
-  <img src="./Untitled26_20260815033043.png" width="168">
-</div>
+
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Sugarcane)

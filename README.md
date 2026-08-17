@@ -87,7 +87,9 @@
 </div>
 
 
-
+<p align="center">
+  <img src="./Untitled26_20260815015956.png" width="175">&nbsp;<img src="./Untitled26_20260815024245.png" width="175">&nbsp;<img src="./Untitled26_20260815033043.png" width="185">
+</p>
 
 
 
